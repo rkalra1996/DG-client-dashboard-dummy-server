@@ -1,0 +1,146 @@
+{
+    "dashboard": {
+        "cards": [
+            {
+                "header": {
+                    "blocks": [
+                        {
+                            "blockType": "image",
+                            "blockUrl": "assets/images/youtube-logo.png"
+                        },
+                        {
+                            "blockType": "section",
+                            "blockText": "5,128",
+                            "blockSubText": "Sessions"
+                        },
+                        {
+                            "blockType": "section",
+                            "blockText": "4,256",
+                            "blockSubText": "Feedback responses"
+                        },
+                        {
+                            "blockType": "chart",
+                            "chartData": {}
+                        }
+                    ]
+                },
+                "body": {
+                    "question": "What needs to be improved in video content and dissemination ?",
+                    "cards": [
+                        {
+                            "title_text": "Video time",
+                            "body_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+                            "view_more_link": "",
+                            "percentage_accuracy": "73",
+                            "percentage_placeholder": "The accuracy level of this category of problem is 73"
+                        },
+                        {
+                            "title_text": "Rains and Roads",
+                            "body_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+                            "view_more_link": "",
+                            "percentage_accuracy": "79",
+                            "percentage_placeholder": "The accuracy level of this category of problem is 79"
+                        },
+                        {
+                            "title_text": "Others",
+                            "body_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+                            "view_more_link": "",
+                            "percentage_accuracy": "80",
+                            "percentage_placeholder": "The accuracy level of this category of problem is 80"
+                        }
+                    ]
+                }
+            },
+            {
+                "header": {
+                    "blocks": [
+                        {
+                            "blockType": "image",
+                            "blockUrl": "assets/images/youtube-logo.png"
+                        },
+                        {
+                            "blockType": "section",
+                            "blockText": "65,436",
+                            "blockSubText": "Farmers interacted"
+                        },
+                        {
+                            "blockType": "chart",
+                            "chartData": {}
+                        }
+                    ]
+                },
+                "body": {
+                    "question": "What are the challenges farmers are facing ?",
+                    "cards": [
+                        {
+                            "title_text": "Market accesibility",
+                            "body_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+                            "view_more_link": "",
+                            "percentage_accuracy": "69",
+                            "percentage_placeholder": "The accuracy level of this category of problem is 69"
+                        },
+                        {
+                            "title_text": "Fertilisers scarcity",
+                            "body_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+                            "view_more_link": "",
+                            "percentage_accuracy": "73",
+                            "percentage_placeholder": "The accuracy level of this category of problem is 73"
+                        },
+                        {
+                            "title_text": "Others",
+                            "body_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+                            "view_more_link": "",
+                            "percentage_accuracy": "73",
+                            "percentage_placeholder": "The accuracy level of this category of problem is 73"
+                        }
+                    ]
+                }
+            },
+            {
+                "header": {
+                    "blocks": [
+                        {
+                            "blockType": "image",
+                            "blockUrl": "assets/images/youtube-logo.png"
+                        },
+                        {
+                            "blockType": "section",
+                            "blockText": "431",
+                            "blockSubText": "Active VRPs on field"
+                        },
+                        {
+                            "blockType": "chart",
+                            "chartData": {}
+                        }
+                    ]
+                },
+                "body": {
+                    "question": "What are the challenges VRPs are facing ?",
+                    "cards": [
+                        {
+                            "title_text": "Payments due",
+                            "body_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+                            "view_more_link": "",
+                            "percentage_accuracy": "78",
+                            "percentage_placeholder": "The accuracy level of this category of problem is 78"
+                        },
+                        {
+                            "title_text": "Travel time",
+                            "body_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+                            "view_more_link": "",
+                            "percentage_accuracy": "67",
+                            "percentage_placeholder": "The accuracy level of this category of problem is 67"
+                        },
+                        {
+                            "title_text": "Others",
+                            "body_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+                            "view_more_link": "",
+                            "percentage_accuracy": "66",
+                            "percentage_placeholder": "The accuracy level of this category of problem is 66"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}
