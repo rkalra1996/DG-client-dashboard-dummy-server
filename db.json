@@ -31,22 +31,28 @@
                             "title_text": "Video time",
                             "body_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
                             "view_more_link": "",
-                            "percentage_accuracy": "73",
-                            "percentage_placeholder": "The accuracy level of this category of problem is 73"
+                            "percentage": {
+                                "accuracy": "73",
+                                "placeholder": "The accuracy level of this category of problem is 73"
+                            }
                         },
                         {
                             "title_text": "Rains and Roads",
                             "body_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
                             "view_more_link": "",
-                            "percentage_accuracy": "79",
-                            "percentage_placeholder": "The accuracy level of this category of problem is 79"
+                            "percentage": {
+                                "accuracy": "79",
+                                "placeholder": "The accuracy level of this category of problem is 79"
+                            }
                         },
                         {
                             "title_text": "Others",
                             "body_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
                             "view_more_link": "",
-                            "percentage_accuracy": "80",
-                            "percentage_placeholder": "The accuracy level of this category of problem is 80"
+                            "percentage": {
+                                "accuracy": "80",
+                                "placeholder": "The accuracy level of this category of problem is 80"
+                            }
                         }
                     ]
                 }
@@ -76,22 +82,28 @@
                             "title_text": "Market accesibility",
                             "body_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
                             "view_more_link": "",
-                            "percentage_accuracy": "69",
-                            "percentage_placeholder": "The accuracy level of this category of problem is 69"
+                            "percentage": {
+                                "accuracy": "69",
+                                "placeholder": "The accuracy level of this category of problem is 69"
+                            }
                         },
                         {
                             "title_text": "Fertilisers scarcity",
                             "body_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
                             "view_more_link": "",
-                            "percentage_accuracy": "73",
-                            "percentage_placeholder": "The accuracy level of this category of problem is 73"
+                            "percentage": {
+                                "accuracy": "73",
+                                "placeholder": "The accuracy level of this category of problem is 73"
+                            }
                         },
                         {
                             "title_text": "Others",
                             "body_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
                             "view_more_link": "",
-                            "percentage_accuracy": "73",
-                            "percentage_placeholder": "The accuracy level of this category of problem is 73"
+                            "percentage": {
+                                "accuracy": "73",
+                                "placeholder": "The accuracy level of this category of problem is 73"
+                            }
                         }
                     ]
                 }
@@ -121,22 +133,28 @@
                             "title_text": "Payments due",
                             "body_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
                             "view_more_link": "",
-                            "percentage_accuracy": "78",
-                            "percentage_placeholder": "The accuracy level of this category of problem is 78"
+                            "percentage": {
+                                "accuracy": "78",
+                                "placeholder": "The accuracy level of this category of problem is 78"
+                            }
                         },
                         {
                             "title_text": "Travel time",
                             "body_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
                             "view_more_link": "",
-                            "percentage_accuracy": "67",
-                            "percentage_placeholder": "The accuracy level of this category of problem is 67"
+                            "percentage": {
+                                "accuracy": "67",
+                                "placeholder": "The accuracy level of this category of problem is 67"
+                            }
                         },
                         {
                             "title_text": "Others",
                             "body_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
                             "view_more_link": "",
-                            "percentage_accuracy": "66",
-                            "percentage_placeholder": "The accuracy level of this category of problem is 66"
+                            "percentage": {
+                                "accuracy": "66",
+                                "placeholder": "The accuracy level of this category of problem is 66"
+                            }
                         }
                     ]
                 }
