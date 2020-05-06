@@ -153,11 +153,155 @@
                             "view_more_link": "",
                             "percentage": {
                                 "accuracy": "66",
-                                "placeholder": "" 
+                                "placeholder": "The accuracy level of this category of problem is 66"
                             }
                         }
                     ]
                 }
+            }
+        ]
+    },
+    "raw": {
+        "data": [
+            {
+                "imageSrc": "assets/images/youtube-logo.png",
+                "stats": [
+                    {
+                        "title": "5,128",
+                        "subtitle": "Sessions"
+
+                    },
+                    {
+                        "title": "4,256",
+                        "subtitle": "Feedback responses"
+
+                    }
+                ],
+                "chart": {
+                    "type": "donut",
+                    "url": "assets/images/donut_chart.png",
+                    "data": [{"label": "", "value": "40%"},{"label": "", "value": "25%"},{"label": "", "value": "35"}]
+                },
+                "session_question": "What needs to be improved in video content and dissemination ?",
+                "session_details": [
+                    {
+                        "title": "Video time",
+                        "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+                        "view_more_link": "",
+                        "accuracy": {
+                            "value": "73",
+                            "info": "The overall accuracy of this section is 73%"
+                        }
+                    },
+                    {
+                        "title": "Rains and Roads",
+                        "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+                        "view_more_link": "",
+                        "accuracy": {
+                            "value": "79",
+                            "info": "The overall accuracy of this section is 79%"
+                        }
+                    },
+                    {
+                        "title": "Others",
+                        "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+                        "view_more_link": "",
+                        "accuracy": {
+                            "value": "80",
+                            "info": "The overall accuracy of this section is 80%"
+                        }
+                    }
+                ]
+            },
+            {
+                "imageSrc": "assets/images/youtube-logo.png",
+                "stats": [
+                    {
+                        "title": "65,436",
+                        "subtitle": "Farmers interacted"
+
+                    }
+                ],
+                "chart": {
+                    "type": "donut",
+                    "url": "assets/images/donut_chart.png",
+                    "data": [{"label": "", "value": "40%"},{"label": "", "value": "25%"},{"label": "", "value": "35"}]
+                },
+                "session_question": "What are the challenges farmers are facing ?",
+                "session_details": [
+                    {
+                        "title": "Market accesibility",
+                        "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+                        "view_more_link": "",
+                        "accuracy": {
+                            "value": "69",
+                            "info": "The overall accuracy of this section is 69%"
+                        }
+                    },
+                    {
+                        "title": "Fertilisers scarcity",
+                        "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+                        "view_more_link": "",
+                        "accuracy": {
+                            "value": "73",
+                            "info": "The overall accuracy of this section is 79%"
+                        }
+                    },
+                    {
+                        "title": "Others",
+                        "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+                        "view_more_link": "",
+                        "accuracy": {
+                            "value": "73",
+                            "info": "The overall accuracy of this section is 73%"
+                        }
+                    }
+                ]
+            },
+            {
+                "imageSrc": "assets/images/youtube-logo.png",
+                "stats": [
+                    {
+                        "title": "431",
+                        "subtitle": "Active VRPs on field"
+
+                    }
+                ],
+                "chart": {
+                    "type": "donut",
+                    "url": "assets/images/donut_chart.png",
+                    "data": [{"label": "", "value": "40%"},{"label": "", "value": "25%"},{"label": "", "value": "35"}]
+                },
+                "session_question": "What are the challenges VRPs are facing ?",
+                "session_details": [
+                    {
+                        "title": "Payments due",
+                        "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+                        "view_more_link": "",
+                        "accuracy": {
+                            "value": "78",
+                            "info": "The overall accuracy of this section is 78%"
+                        }
+                    },
+                    {
+                        "title": "Travel time",
+                        "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+                        "view_more_link": "",
+                        "accuracy": {
+                            "value": "67",
+                            "info": "The overall accuracy of this section is 67%"
+                        }
+                    },
+                    {
+                        "title": "Others",
+                        "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+                        "view_more_link": "",
+                        "accuracy": {
+                            "value": "67",
+                            "info": "The overall accuracy of this section is 67%"
+                        }
+                    }
+                ]
             }
         ]
     }
